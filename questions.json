@@ -1,0 +1,51 @@
+
+[
+    {
+    "question":"Hello",
+    "questiondiffsyntax": ["hello","hi","hello!","hi!","HELLO"],
+    "keywords":["keyword1", "keyword2", "keyword3","keyword4","keyword5"],
+    "reply": "Hello to you too!"
+},
+
+{
+    "question":"question2",
+    "questiondiffsyntax": ["version12","version22","version32","version42","version52"],
+    "keywords":["kywrd12", "kywrd22", "kywrd32","kywrd42","kywrd52"],
+    "reply": "some reply2"
+},
+
+{
+    "question":"question3",
+    "questiondiffsyntax": ["version12","version22","version32","version42","version52"],
+    "keywords":["kywrd12", "kywrd22", "kywrd32","kywrd42","kywrd52"],
+    "reply": "some reply3"
+},
+
+{
+    "question":"question4",
+    "questiondiffsyntax": ["version12","version22","version32","version42","version52"],
+    "keywords":["kywrd12", "kywrd22", "kywrd32","kywrd42","kywrd52"],
+    "reply": "some reply4"
+},
+
+{
+    "question":"question5",
+    "questiondiffsyntax": ["version12","version22","version32","version42","version52"],
+    "keywords":["kywrd12", "kywrd22", "kywrd32","kywrd42","kywrd52"],
+    "reply": "some reply5"
+},
+
+{
+    "question":"question6",
+    "questiondiffsyntax": ["version12","version22","version32","version42","version52"],
+    "keywords":["kywrd12", "kywrd22", "kywrd32","kywrd42","kywrd52"],
+    "reply": "some reply6"
+},
+
+{
+    "question":"question7",
+    "questiondiffsyntax": ["version12","version22","version32","version42","version52"],
+    "keywords":["kywrd12", "kywrd22", "kywrd32","kywrd42","kywrd52"],
+    "reply": "some reply7"
+}
+]
